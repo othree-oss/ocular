@@ -1,0 +1,5 @@
+rootProject.name = 'ocular'
+
+include 'ocular-core'
+include 'ocular-s3'
+

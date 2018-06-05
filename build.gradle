@@ -1,0 +1,4 @@
+allprojects {
+    group='io.othree'
+    version = '1.0'
+}
